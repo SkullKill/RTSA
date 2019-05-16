@@ -44,6 +44,7 @@ restart snmpd daemon
 
 ## Upgrade
 
+MAKE SURE TO BACKUP YOUR config ini file first!!!
 You need to stop rtsa (`seystemctl stop rtsa`) and start the [install](#install).
 
 ## Customize
