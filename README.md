@@ -346,4 +346,4 @@ echo -n "PASSWORD" | iconv -t utf16le | openssl md4
 ## Todo
 
 1. poweroff / reboot via webinterface.
-
+2. logs are going to /var/log/syslog instead (need fixing)
