@@ -1,5 +1,5 @@
 # rpi-temp-snmp-alarm (RTSA)
-Like ramlog for systemd (on debian 8 jessie for example).
+
 
 Design for **Monitoring Fridge/Freazer**. Will activate relay (that can drive a strobe/siren/doorBell) when the temperature is out of range. All values are also made available through SNMP for monitoring/alerting. e.g using PRTG/nagios
 
