@@ -320,7 +320,7 @@ network={
 }
 
 network={
-        ssid="SkullKillV1"
+        ssid="HomeWiFi"
         priority=1
         proto=RSN
         key_mgmt=WPA-EAP
