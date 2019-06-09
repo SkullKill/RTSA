@@ -1,6 +1,6 @@
 # rpi-temp-snmp-alarm (RTSA)
 
-please refer to the wifi for pictures of the setup [RTSA Wiki](https://github.com/SkullKill/RTSA/wiki)
+please refer to the wiki for pictures of the setup [RTSA Wiki](https://github.com/SkullKill/RTSA/wiki)
 
 Design for **Monitoring Fridge/Freazer**. Will activate relay (that can drive a strobe/siren/doorBell) when the temperature is out of range. All values are also made available through SNMP for monitoring/alerting. e.g using PRTG/nagios
 
