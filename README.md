@@ -31,7 +31,7 @@ _____
 **make sure that snmpd is installed and configured before installing RTSA**
 recommend using somehing like [log2ram](https://github.com/azlux/log2ram) to minimise read/write to sd card.
 
-    git clone https://githib.com/skullkill/rtsa
+    git clone https://github.com/skullkill/rtsa
     cd rtsa
     chmod +x install.sh && sudo ./install.sh
 
